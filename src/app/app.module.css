@@ -1,7 +1,8 @@
 .main {
-  @apply min-h-screen w-full space-y-16 bg-black px-4 sm:px-0;
-  background-image: radial-gradient(#d7d7d740 1px, transparent 0),
-    radial-gradient(#d7d7d71a 1px, transparent 0);
+  @apply min-h-screen w-full space-y-16 px-4 sm:px-0;
+  background-color: #082c4e;
+  /* background-image: radial-gradient(#fefcdd 1px, transparent 0),
+    radial-gradient(#fefcdd 1px, transparent 0); */
   background-size: 50px 50px;
   background-position: 0 0, 25px 25px;
   -webkit-animation: slide 2s linear infinite;
